@@ -5,8 +5,8 @@ main:
  - title: "About"
     url: "https://enricodidoli-source.github.io/"
  - title: "Projects"
-    url: "https://enricodidoli-source.github.io/_data/pages/projects/"
+    url: "https://enricodidoli-source.github.io/projects/"
  - title: "Curriculum Vitae"
-    url: "https://enricodidoli-source.github.io/_data/pages/cv/"
+    url: "https://enricodidoli-source.github.io/cv/"
   # - title: "Sitemap"
   #   url: /sitemap/
