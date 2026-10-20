@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Maze Game"
-permalink: /_projects/maze_game/
+permalink: /maze_game/
 author_profile: true
 ---
 
