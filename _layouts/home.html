@@ -19,3 +19,6 @@ layout: archive
 </div>
 
 {% include paginator.html locale=locale %}
+
+{% capture home_extras %}{% include new_features/feature_1.md %}{% endcapture %}
+{{ home_extras | markdownify }}
