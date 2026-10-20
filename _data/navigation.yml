@@ -1,10 +1,7 @@
 main:
   - title: "About Me"
-    url: https://enricodidoli-source.github.io/
+    url: /
   - title: "Projects"
     url: /projects/
-    children:
-    - title: "Maze Algorithms"
-      url: /maze_algorithms/
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
