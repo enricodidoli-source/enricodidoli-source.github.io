@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Maze Generation Algorithms"
-permalink: /_projects/maze-project-overview/
+permalink: /maze_overview/
 author_profile: true
 ---
 
