@@ -2,6 +2,6 @@ main:
   - title: "About Me"
     url: /
   - title: "Projects"
-    url: /projects/
+    url: /_pages/projects/
   - title: "CV"
-    url: /cv/
+    url: /_pages/cv/
