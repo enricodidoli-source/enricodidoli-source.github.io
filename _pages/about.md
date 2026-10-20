@@ -15,3 +15,6 @@ My core interests are building interpretable and trustworthy models in cases whe
 During my university studies, I also participated in an Erasmus+ Exchange at Ghent University in Belgium (2024-2025).
 
 You can find more information about my journey on the [CV page](/cv/), and my code in the [Projects](/projects/) section and on my [GitHub profile](https://github.com/enricodidoli-source).
+
+**⚠ Projects section still in development ⚠**
+{: .notice--warning}
