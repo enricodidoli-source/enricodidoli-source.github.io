@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a collection of my recent work on GitHub. Click on any project to read more about it.
 
-### [Maze Algorithms](/_projects/maze_algorithms/)
+### [Maze Algorithms](/_pages/maze_algorithms/maze_overview)
 A Python project that visually demonstrates different pathfinding and maze-generation algorithms, including A* and Dijkstra.
 
 ### [Data Analysis Pipeline](/_projects/link-to-project/)
