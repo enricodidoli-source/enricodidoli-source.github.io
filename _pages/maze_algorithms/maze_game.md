@@ -1,0 +1,10 @@
+---
+layout: single
+title: "Maze Game"
+permalink: /_projects/maze_game/
+author_profile: true
+---
+
+The game is hosted using a Render free account. This might delay the first algorithm generation by about 50 seconds. Please wait ("The anticipation of pleasure is itself a pleasure" 😴).
+
+<iframe src="https://maze-algorithms.onrender.com/" width="100%" height="800px" style="border: 1px solid #ccc;"></iframe>
