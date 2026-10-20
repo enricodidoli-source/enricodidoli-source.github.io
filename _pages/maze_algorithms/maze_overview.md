@@ -16,4 +16,4 @@ Choose your destination below to learn more or start playing:
 [View Source Code](https://github.com/enricodidoli-source/maze-algorithms){: .btn .btn--primary}
 
 
-<iframe src="/assets/pdf/CV_Enrico_Didoli.pdf" width="100%" height="800px" style="border: 1px solid #ccc;"></iframe>
+<iframe src="/assets/pdf/Maze_Generating_Algorithms.pdf" width="100%" height="800px" style="border: 1px solid #ccc;"></iframe>
