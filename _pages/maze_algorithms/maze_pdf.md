@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Maze Generating Algrithms: Understanding Maze Complexity for Gamers"
-permalink: /cv/maze_pdf/
+permalink: /_projects/maze_pdf/
 author_profile: true
 redirect_from:
   - /resume
