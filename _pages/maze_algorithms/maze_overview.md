@@ -11,6 +11,6 @@ The project is divided into two main parts: a comprehensive research paper detai
 
 Choose your destination below to learn more or start playing:
 
-[Read the Paper](/assets/pdf/Maze_Generating_Algrithms.pdf){: .btn .btn--info}
-[Play the Game](/_pages/maze_algorithms/maze_game/){: .btn .btn--success}
+[Read the Paper](/assets/pdf/Maze_Generating_Algorithms.pdf){: .btn .btn--info}
+[Play the Game](/maze_game/){: .btn .btn--success}
 [View Source Code](https://github.com/enricodidoli-source/maze-algorithms){: .btn .btn--primary}
