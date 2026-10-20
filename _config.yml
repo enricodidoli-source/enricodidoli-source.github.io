@@ -26,7 +26,7 @@ url                      : "https://enricodidoli-source.github.io/" # the base h
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "enricodidoli-source/minimal-mistakes" # GitHub username/repo-name e.g. "enricodidoli-source/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/linkedin_profile_photo.JPG" # path of logo image to display in the masthead, e.g. "/assets/images/linkedin_profile_photo.JPG"
+logo                     :  # path of logo image to display in the masthead, e.g. "/assets/images/linkedin_profile_photo.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Enrico Didoli"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/linkedin_profile_photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Turin (Italy)"
   # email            : "enricodidoli@gmail.com"
