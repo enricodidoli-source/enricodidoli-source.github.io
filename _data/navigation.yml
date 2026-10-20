@@ -3,10 +3,10 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
  - title: "About"
-    url: "https://enricodidoli-source.github.io/"
+    url: /
  - title: "Projects"
-    url: "https://enricodidoli-source.github.io/projects/"
+    url: /projects/
  - title: "Curriculum Vitae"
-    url: "https://enricodidoli-source.github.io/cv/"
+    url: /cv/
   # - title: "Sitemap"
   #   url: /sitemap/
