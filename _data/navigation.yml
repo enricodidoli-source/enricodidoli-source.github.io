@@ -3,5 +3,8 @@ main:
     url: /
   - title: "Projects"
     url: /_pages/projects/
+    children:
+    - title: "Maze Algorithms"
+      url: /maze_algorithms/
   - title: "CV"
     url: /_pages/cv/
