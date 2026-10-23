@@ -8,3 +8,16 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+.author__urls li i,
+.author__urls li .fas,
+.author__urls li .fab {
+  font-size: 1.5em; /* Valore di default circa 1em. Prova 1.3em o 1.5em */
+  margin-right: 8px; /* Aggiunge un po' di respiro tra l'icona ingrandita e il testo */
+  vertical-align: middle;
+}
+
+
+.author__urls li a {
+  font-size: 1.1em;
+}
