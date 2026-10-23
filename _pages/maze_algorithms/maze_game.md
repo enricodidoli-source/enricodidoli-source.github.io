@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Maze Game"
 permalink: /maze_game/
 author_profile: true
