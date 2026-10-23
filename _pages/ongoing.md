@@ -14,6 +14,8 @@ An expansion of the work done for my Master's thesis, "Detecting Measurable Resi
 
 Preliminary code is available in my [Single-cell classification GitHub repository](https://github.com/enricodidoli-source/master-thesis/blob/main/CellCNN/notebooks/refactoring_single_cell_detection.ipynb).
 
+---
+
 ### Uncertainty-Aware RAG
 To explore RAG structures, limits, and improvements, I employed a compact Foundation model (Qwen-0.5B) and built a pipeline to optimize chunking, overlap, and answering parameters using Bayesian Optimization. 
 Additionally, I implemented the tuning of a confidence threshold to decide whether an answer should be sent to the client or rejected. 
