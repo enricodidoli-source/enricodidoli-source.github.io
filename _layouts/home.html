@@ -20,5 +20,11 @@ layout: archive
 
 {% include paginator.html locale=locale %}
 
-{% capture home_extras %}{% include new_features/feature_1.md %}{% endcapture %}
-{{ home_extras | markdownify }}
+{% capture news_section %}{% include new_features/news.md %}{% endcapture %}
+{{ news_section | markdownify }}
+
+{% capture mem_section %}{% include new_features/mem_feature.md %}{% endcapture %}
+{{ mem_section | markdownify }}
+
+{% capture feature_section %}{% include new_features/feature_1.md %}{% endcapture %}
+{{ feature_section | markdownify }}
