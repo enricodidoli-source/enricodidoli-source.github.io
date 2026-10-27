@@ -13,7 +13,7 @@ Out Of Memory (OOM) errors are a common issue when working with large-scale data
 
 ---
 
-Below yuo can find a quick usage example, or you can go to the repository clicking the button.
+Below you can find a quick usage example, or you can go to the repository by clicking the button below.
 [View Source Code](https://github.com/enricodidoli-source/memory-save){: .btn .btn--primary}
 
 ---
