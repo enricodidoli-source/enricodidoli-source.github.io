@@ -5,9 +5,6 @@ permalink: /MRD_overview/
 author_profile: true
 ---
 
-
-# Detecting Measurable Residual Disease in B-ALL using Convolutional Neural Networks
-
 ## Abstract & Context
 For my Master's thesis, I focused on improving the detection of **Measurable Residual Disease (MRD)** in patients with **B-cell Acute Lymphoblastic Leukaemia (B-ALL)**. MRD refers to the small number of cancer cells that remain in the body during or after treatment. Being able to detect small quantity of leukaemic cells is critical for predicting relapse and guiding clinical decisions.
 
