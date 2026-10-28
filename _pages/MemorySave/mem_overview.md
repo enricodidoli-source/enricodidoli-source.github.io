@@ -5,8 +5,6 @@ permalink: /mem_overview/
 author_profile: true
 ---
 
-# MemorySave: RAM Management in Python
-
 Out Of Memory (OOM) errors are a common issue when working with large-scale data processing in Python, particularly when working within free Google Colab environments. Standard garbage collection (`gc.collect()`) often fails to instantly release memory back to the system. Even deleting variables manually (`del var`) does not always work due to persistent references, hidden duplications, or variables passed as function parameters.
 
 **`MemorySave`** is a Python utility class created to handle RAM management efficiently by combining optimized disk serialization with cache cleaning.
